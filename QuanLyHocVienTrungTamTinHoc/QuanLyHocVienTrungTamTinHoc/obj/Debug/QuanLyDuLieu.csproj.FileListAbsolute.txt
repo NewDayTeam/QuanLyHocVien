@@ -1,0 +1,63 @@
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_dsGiaoVien.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_dsHocVien.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_ketThuc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_nhanHocVienMoi.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.Properties.Resources.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.csproj.GenerateResource.Cache
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\QuanLyDuLieu.exe.config
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\QuanLyDuLieu.exe
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\QuanLyDuLieu.pdb
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.exe
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.pdb
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_themGV.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.csprojResolveAssemblyReference.cache
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_suaThongTinGV.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_dsLopHoc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_themLopHoc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_suaThongTinLopHoc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_dsMonHoc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_suaThongTinMonHoc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_themMonHoc.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_suaThongTinHocVien.resources
+Z:\NewVolumn (D)\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.frm_test.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\QuanLyDuLieu.exe.config
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.exe
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.pdb
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\QuanLyDuLieu.exe
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\QuanLyDuLieu.pdb
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.csprojResolveAssemblyReference.cache
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.Properties.Resources.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\QuanLyDuLieu.csproj.GenerateResource.Cache
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\PagedList.dll
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\bin\Debug\PagedList.xml
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.chuongtrinhdaotao.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmmatkhau.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmquanlytaikhoan.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmthaydoi.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmthongtin.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmcndiemthi.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmdsthitheophong.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmlichthi.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmsxphongthi.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmxemlichthi.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frmhethong.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_thongKeKetQuaHocTap.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_thongKeSoLuong.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_timKiemGV.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_timKiemHV.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_traCuuKetQua.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_main.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_suaThongTinHocVien.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_dsHocVien.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_suaThongTinMonHoc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_themMonHoc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_dsMonHoc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_suaThongTinLopHoc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_dsLopHoc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_themLopHoc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_dsGiaoVien.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_ketThuc.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_nhanHocVienMoi.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_suaThongTinGV.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_themGV.resources
+D:\WindowsStorage\WorkData\Visual Studio 2012\Projects\QuanLyDuLieu\QuanLyDuLieu\obj\Debug\quanlytrungtam.frm_test.resources
