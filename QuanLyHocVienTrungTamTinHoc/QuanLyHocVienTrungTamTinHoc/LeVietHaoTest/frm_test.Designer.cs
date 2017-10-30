@@ -1,4 +1,6 @@
-﻿namespace quanlytrungtam
+﻿//check github
+
+namespace quanlytrungtam
 {
     partial class frm_test
     {
